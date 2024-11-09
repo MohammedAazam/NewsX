@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="mx-10 my-2">
-        <div className="flex justify-center items-center h-14">
+        <div className="flex justify-center items-center h-14 ">
           <div className="flex-none">
             <h1 className="text-lg font-bold tracking-wider">NewsX</h1>
           </div>
